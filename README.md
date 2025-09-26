@@ -4,14 +4,7 @@ Thanks for stopping by!
 I’ve changed my GitHub username, and this account is no longer active.  
 
 👉 Please follow me on my new GitHub profile:  
-**[@jcsqxv](https://github.com/jcsqxv)**  
-
----
-
-## 🔗 Quick Links
-- 🌟 [My repositories](https://github.com/jcsqxv?tab=repositories)  
-- 📝 [Pinned projects](https://github.com/jcsqxv?tab=stars)  
-- 📬 [Contact me](https://github.com/jcsqxv)  
+**[@jcsqxv](https://github.com/jcsqxv)**   
 
 ---
 
