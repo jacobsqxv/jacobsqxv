@@ -3,8 +3,7 @@
 Thanks for stopping by!  
 I’ve changed my GitHub username, and this account is no longer active.  
 
-👉 Please follow me on my new GitHub profile:  
-**[@jcsqxv](https://github.com/jcsqxv)**   
+👉 Please follow me on my new GitHub profile: **[@jcsqxv](https://github.com/jcsqxv)**   
 
 ---
 
