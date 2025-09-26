@@ -13,6 +13,6 @@ All my new projects, updates, and contributions are happening on my new account.
 
 ---
 
-![Redirect](https://img.shields.io/badge/redirect-to%20new%20profile-blue?style=for-the-badge&logo=github)
+[![Redirect](https://img.shields.io/badge/redirect-to%20new%20profile-blue?style=for-the-badge&logo=github)](https://github.com/jcsqxv)
 
 ---
